@@ -1,1 +1,3 @@
-# swecha
+# maven-project
+
+Simple Maven Project
